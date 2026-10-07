@@ -1,1 +1,68 @@
+# Sales Performance Dashboard
 
+A comprehensive **Sales Performance Dashboard** designed to analyze and visualize sales data across multiple business dimensions. The project provides an interactive overview of sales performance, order distribution, shipping trends, product categories, and sub-categories.
+
+## Project Overview
+
+The dashboard transforms raw sales data into meaningful business insights through multiple visualizations. It helps users understand sales patterns, identify high-performing categories, analyze shipping performance, and compare sales across different regions and product segments.
+
+## Key Features
+
+- Sales performance overview
+- Order distribution analysis
+- Sales analysis by shipping mode
+- Country and region-wise sales comparison
+- Category-wise sales analysis
+- Sub-category performance analysis
+- Product-level sales insights
+- Interactive filters for exploring the data
+- Graphical representation of key sales metrics
+- Easy-to-understand business intelligence dashboard
+
+## Dashboard Sections
+
+### Orders
+
+Displays the distribution of orders across different segments and helps identify the contribution of each segment to overall sales.
+
+### Ship Mode
+
+Analyzes sales and order trends based on different shipping methods, allowing users to understand shipping preferences and performance.
+
+### Country & Region
+
+Provides a comparison of sales across countries and regions to identify strong and weak-performing geographical areas.
+
+### Sub-Category
+
+Shows the performance of individual product sub-categories and helps identify products contributing significantly to overall sales.
+
+### Filters
+
+The dashboard includes interactive filters that allow users to explore specific dates, categories, regions, and other dimensions of the sales data.
+
+## Objective
+
+The primary objective of this project is to create a centralized sales analytics dashboard that makes complex sales data easier to understand. It can assist businesses in monitoring performance, identifying trends, and making data-driven decisions.
+
+## Technologies
+
+- Data Visualization
+- Business Intelligence
+- Sales Analytics
+- Data Analysis
+- Interactive Dashboard
+
+## Use Cases
+
+This dashboard can be used by:
+
+- Sales teams to monitor performance
+- Business analysts to identify trends
+- Management teams to support decision-making
+- Retail businesses to analyze product performance
+- Organizations to evaluate regional and shipping performance
+
+## Project Outcome
+
+The project demonstrates how sales data can be converted into an interactive business intelligence dashboard. It provides a clear view of sales performance and enables users to explore different aspects of the business through interactive analysis.
