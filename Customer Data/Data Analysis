@@ -1,1 +1,83 @@
+This dashboard is a **Project Management Tracker & Dashboard** designed to provide a quick overview of project performance, costs, status, and distribution.
 
+### 📊 Key Performance Indicators
+
+At the top, the dashboard summarizes the overall portfolio:
+
+- **Total Projects:** 75
+- **Total Actual Cost:** ₹3,557K (approximately ₹35.57 lakh)
+- **Active Projects:** 37
+- **On Hold / Delayed:** 21
+- **Average Project Age:** 2.4 years
+- **Budget Utilization:** 102.1%, indicating that actual spending is slightly above the overall budget.
+
+### 💰 Monthly Actual Cost
+
+The line chart tracks actual project expenditure from **January to December**.
+
+- The highest monthly cost is in **February (₹5,44,600)**.
+- Costs fluctuate throughout the year, with another notable increase in **September (₹4,50,100)**.
+- December records a relatively low cost of approximately **₹1,13,300**.
+
+### 📍 Projects by Location
+
+Projects are distributed across nine locations:
+
+- **Mumbai:** 18 — highest
+- **Nashik:** 12
+- **Kolkata & Pune:** 9 each
+- **Ahmedabad & Delhi:** 7 and 6 respectively
+- **Bangalore:** 6
+- **Chennai:** 5
+- **Hyderabad:** 3 — lowest
+
+### 📌 Project Status
+
+The status chart shows:
+
+- **Active:** 37
+- **Completed:** 9
+- **Delayed:** 15
+- **On Hold:** 6
+- **Planning:** 8
+
+This indicates that nearly half of the projects are currently active, while **21 projects are either delayed or on hold**, which may require management attention.
+
+### 🏗️ Projects by Category
+
+Projects are spread across:
+
+- Construction
+- HR
+- IT
+- Marketing
+- Operations
+- R&D
+
+The category distribution is relatively balanced, with **R&D and Operations having significant representation**.
+
+### 👥 Projects by Department
+
+The department chart compares project volumes across **Sales, Production, Logistics, HR, and Admin**. **Logistics and HR** have the highest project counts, while **Admin** has fewer projects.
+
+### ⭐ Projects by Priority
+
+Priority distribution shows:
+
+- **High:** 37
+- **Medium:** 30
+- **Low:** 8
+
+Therefore, a large proportion of the portfolio is classified as **high priority**, suggesting that project resources and monitoring should be focused accordingly.
+
+### 🔎 Filters
+
+The right side provides interactive filters for:
+
+- **Category**
+- **Status**
+- **Location**
+
+These allow management to drill down into specific groups and analyze project performance in greater detail.
+
+### 📝 Overall Interpretation
